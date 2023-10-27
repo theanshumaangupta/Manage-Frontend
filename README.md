@@ -1,2 +1,2 @@
-# Manage-Frontend
-Landing page of a brand named `Manage`
+https://anshumangupta-code.github.io/Manage-Frontend/
+
